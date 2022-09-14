@@ -15,3 +15,7 @@ Cellulo is a social, cognitive-motor assistive tabletop robot, created in the CH
 - LED indicators
 - Touch sensor
 - Wireless connectivity
+
+## Links
+
+To work with Cellulo it is necesary to install [Cellulo qml plugin](https://github.com/chili-epfl/cellulo-qml-plugin)
