@@ -1,0 +1,6 @@
+[submodule "src/libdots"]
+	path = src/libdots
+	url = ssh://git@c4science.ch:2222/diffusion/514/libdots.git
+[submodule "src/qml-plugin"]
+	path = src/qml-plugin
+	url = ssh://git@c4science.ch:2222/diffusion/505/cellulo-qml-plugin.git

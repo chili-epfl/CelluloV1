@@ -1,0 +1,15 @@
+﻿"pcb_diameter"=50
+"pcb_room_total"= 4
+"hull_conic_rho"= 0.45
+"hull_thickness"= 1.2
+"screw_diameter"=2
+"usb_receptacle_thickness"= 2.35
+"pcb_side_room"= 0.4
+"pcb_peg_room"=0.2
+"bottom_pcb_thickness"= 1
+"bottom_pcb_top_component_room"=3
+"battery_thickness"=8.8
+"battery_floor_ceiling_thickness"=0.4
+"nut_size"=4
+"nut_thickness"=1.6
+"nut_room"=0.15

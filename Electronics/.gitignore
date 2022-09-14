@@ -1,0 +1,10 @@
+*~
+
+#Altium
+History/
+__Previews/
+*.LOG
+Design Rule Check*
+*.PrjPCBStructure
+Status Report.txt
+

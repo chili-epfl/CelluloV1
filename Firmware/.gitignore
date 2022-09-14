@@ -1,0 +1,10 @@
+*~
+.tags
+
+#MPLABX
+*build/
+debug/
+dist/
+/**/nbproject/Makefile-*
+/**/nbproject/Package-*
+/**/nbproject/private/

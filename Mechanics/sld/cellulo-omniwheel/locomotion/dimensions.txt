@@ -1,0 +1,17 @@
+﻿"wheel_dia"=30
+"wheel_rim_room"=1
+"miniwheel_top_bottom_room"=0.7
+"miniwheel_side_room"=0.7
+"miniwheel_axle_dia"=1.4
+"miniwheel_axle_holding_room"=0.5
+"rim_extra_width"=0.3
+"miniwheel_neck_width"=0.8
+"middle_thickness"=8.5
+"motor_axle_dia"=3
+"motor_axle_room"=0.1
+"motor_axle_notch_thickness"=2.5
+"mate_room"=0.10
+"vertical_mate_room"=0.1
+"miniwheel_base_dia"=7.39
+"miniwheel_axle_room"=0.1
+"miniwheel_rubber_thickness"=1
