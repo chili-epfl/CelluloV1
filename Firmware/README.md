@@ -60,8 +60,12 @@ What you need (available at [http://icchilisrv1.epfl.ch](http://icchilisrv1.epfl
 
 Load the project into MPLAB X, connect the robot over ICSP and click the *Make and Program Device* button.
 
-
+Note that the directory paths and name of the files are documented strictly in the `configurations.xml` file, which can be found inside the project folder (cellulo-firmware.X/nbproject). Place all the files and folders accordingly to prevent #include issues when loading the projec to MPLAB.
+ 
 =========================================
 
 If it is your first time working with Cellulo, you might need to install extra libraries libdots and qml-plugin.
 Follow the guide in: https://c4science.ch/w/chili-epfl/cellulo/cellulo-software/cellulo-installation-linux-android/
+
+
+
