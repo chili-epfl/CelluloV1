@@ -60,6 +60,7 @@ What you need (available at [http://icchilisrv1.epfl.ch](http://icchilisrv1.epfl
 
 Load the project into MPLAB X, connect the robot over ICSP and click the *Make and Program Device* button.
 
+Note that the directory paths and file names are documented strictly in the configurations.xml file, which can be found inside the project folder (cellulo-firmware.X/nbproject). Place all the files and folders accordingly to prevent #include issues when loading the project into MPLAB.
 
 =========================================
 
