@@ -18,4 +18,6 @@ Cellulo is a social, cognitive-motor assistive tabletop robot, created in the CH
 
 ## Links
 
+Information about how to work with Cellulo and installations can be found in the [wiki](https://github.com/chili-epfl/cellulo/wiki/Cellulo-V1)
+
 To work with Cellulo it is necesary to install [Cellulo qml plugin](https://github.com/chili-epfl/cellulo-qml-plugin)
