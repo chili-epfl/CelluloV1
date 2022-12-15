@@ -9,7 +9,7 @@ Cellulo is a social, cognitive-motor assistive tabletop robot, created in the CH
 
 ## Features
 
-- Holomonic movement
+- Holonomic movement
 - Haptic feedback
 - Sub-mm localization
 - LED indicators
